@@ -1,3 +1,6 @@
+# ![image](https://github.com/takeshi05/Online-Examination-System-in-PHP-MySQL-with-Source-Code/assets/45628093/ea539c5e-f0f9-4afc-9ef8-0d6a1b2de32b)
+
+
 # Online-Examination-System-in-PHP-MySQL-with-Source-Code
 A simple project based on Online Examination System which uses PHP Language. Following PHP MySQL project contains all the essential features which can be in use by the first-year IT students for their college projects. It has a number of features that will allow users to manage and take online MCQ exams. 
 
